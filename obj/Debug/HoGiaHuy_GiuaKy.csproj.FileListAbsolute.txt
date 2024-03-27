@@ -1,0 +1,7 @@
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_GiuaKy\bin\Debug\HoGiaHuy_GiuaKy.exe.config
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_GiuaKy\bin\Debug\HoGiaHuy_GiuaKy.exe
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_GiuaKy\bin\Debug\HoGiaHuy_GiuaKy.pdb
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_GiuaKy\obj\Debug\HoGiaHuy_GiuaKy.csproj.AssemblyReference.cache
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_GiuaKy\obj\Debug\HoGiaHuy_GiuaKy.csproj.CoreCompileInputs.cache
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_GiuaKy\obj\Debug\HoGiaHuy_GiuaKy.exe
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_GiuaKy\obj\Debug\HoGiaHuy_GiuaKy.pdb
